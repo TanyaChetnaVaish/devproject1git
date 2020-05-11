@@ -4,5 +4,4 @@
 
 ***Setting up GitHub and Git repositories and branches***
 -•	Create a folder (here on Desktop) -devproject1 and in it create a one.html file with data.
-![GitHub Logo](C:\Users\TANYA\Pictures\Screenshots\Screenshot(45))
-Format: ![Alt Test](url)
+![](C:\Users\TANYA\Pictures\Screenshots\Screenshot(45).png)
