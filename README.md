@@ -1,4 +1,5 @@
-# Project 1
+# TASK 1
+# DEVOPS ASSEMBLY LINES
 ## TOPIC:Setup a Jenkins Production and testing and production pipeline using Docker
 *Assumptions:Git is installed on Windows. The user must have GitHub profile. Docker and Jenkins must be installed ,here it is installed on RHEL8 running on VMWare. Webserver and docker server is configured. There is active internet connection.*
 
